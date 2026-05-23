@@ -21,10 +21,15 @@
 
 <!-- 遇到的问题、卡点 -->
 
+## 任务打卡（简洁版 / Task Checkin - Concise）
+
+<!-- 给 WCB API 提交用的简短版本，直接内容文本 -->
+
 ## Check-in
 
 - [ ] 打卡内容已提交到 WCB（submitted check-in to WCB）
-- [ ] 打卡链接: 
+- [ ] Submission ID:
+- [ ] 关联 task:
 
 ## Tomorrow's Plan
 
